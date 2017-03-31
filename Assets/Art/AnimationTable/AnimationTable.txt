@@ -1,0 +1,10 @@
+
+run01     正常跑 
+run02     休闲跑 
+run03     休闲跑02
+run04     快速跑 当跑步速度大于正常值1就始终播放这个 不播其他跑步动作
+flyup     飞行起手
+flyloop   飞行循环
+flydown   飞行结束
+collide    冲撞
+jump       跳
