@@ -8,3 +8,4 @@ flyloop   飞行循环
 flydown   飞行结束
 collide    冲撞
 jump       跳
+die        死亡
